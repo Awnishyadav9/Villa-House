@@ -1,0 +1,26 @@
+#carousal {
+    overflow: hidden;
+    position: relative;
+}
+  .photo img {
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+}
+.arrbtn {
+  position: absolute;
+  top: 50%;
+  font-size: 29px;
+  font-weight: bold;
+  padding: 0.4rem 0.7rem;
+  border-radius: 1.3rem;
+  background-color: rgba(128, 128, 128, 0.607);
+  border: none;
+  cursor: pointer;
+}
+.prev {
+    right: 1rem;
+  }
+  .nxt{
+    left: 1rem;
+  }

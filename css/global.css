@@ -1,0 +1,116 @@
+:root{
+    --secondary-color: #1e1e1e;
+    --primary-color: #fefefe;
+    --accent-color: #f35525;
+    --faded-orange: #ffeee9;
+    --gutter-padding: 2rem 4rem;
+    --text-light-color: #cdcdcd; 
+    --lighter: 300;
+    --normal: 400;
+    --bold: 700
+
+}
+/* SAMPLE: https://templatemo.com/live/templatemo_591_villa_agency */
+
+
+/* two box  <div class="rows2">
+<div class="map-cards">
+    <div class="cards1">
+        <img src="image/phone-icon.png" alt="">
+        <h3>010-020-0340</h3>
+        <p>Phone Number</p>
+    </div>
+    <div class="cards2">
+        <img src="image/email-icon.png" alt="">
+        <h3>info@villa.co</h3>
+        <p>Buisness Email</p>
+    </div>
+</div>
+</div> */
+
+/* .map-cards{
+    display: flex;
+    margin-top: 4rem;
+    text-align: center;
+}
+.cards1, .cards2{
+    display: inline-flex;
+    padding: 1.5rem;
+    box-shadow: 0px 0px 15px var(--text-light-color);
+    border-radius: 10px;
+    margin-right: 2rem;
+} */
+
+
+
+
+/* <div class="form-box">
+<form action="">
+    <label for="">Full Name</label>
+    <input type="text" placeholder="Your Name...">
+    <label for="">Email Address</label>
+    <input type="email" placeholder="You E-mail...">
+    <label for="">Subject</label>
+    <input type="text" placeholder="Subject...">
+    <label for="">Message</label>
+    <textarea rows="8" placeholder="Your Message"></textarea>
+    <div class="cta-section">
+        <button class="btn">Send Message</button>
+    </div>
+</form>
+</div> */
+
+/* .form-box {
+    width: 50%;
+    height: 100%;
+    background: var(--primary-color);
+    border-radius: 15px;
+    box-shadow: 0px 0px 15px var(--text-light-color);
+    display: block;
+}
+
+.form-box form {
+    padding: var(--gutter-padding);
+}
+
+.form-box input,
+.form-box textarea {
+    width: 100%;
+    height: 2.5rem;
+    background: var(--text-light-color);
+    border-radius: 1.4rem;
+    padding: 0px 15px;
+    display: inline-block;
+    margin: 1rem auto;
+    border: none;
+}
+.form-box textarea {
+    height: 8rem;
+    font-size: 16px;
+    padding: 0.5rem;
+} */
+
+
+
+/* <div class="map-box">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12469.776493332698!2d-80.14036379941481!3d25.907788681148624!2m3!1f357.26927939317244!2f20.870722720054623!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x88d9add4b4ac788f%3A0xe77469d09480fcdb!2sSunny%20Isles%20Beach!5e1!3m2!1sen!2sth!4v1642869952544!5m2!1sen!2sth" width="100%" height="500px" frameborder="0" style="border:0; border-radius: 10px; box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15);" allowfullscreen=""></iframe>   
+</div> */
+
+/* .map-form {
+    display: flex;
+    top: 15rem;
+    margin: 0 3rem;
+}
+
+.map-box {
+    position: absolute;
+    margin-right: 8rem;
+}
+
+.map-box iframe {
+    border-radius: 20px; 
+    box-shadow: 0px 0px 15px var(--text-light-color);
+}
+.map-and-card{
+    display: block;
+} */
